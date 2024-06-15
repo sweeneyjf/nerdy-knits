@@ -1,0 +1,14 @@
+body {
+    background-color: #65C0BB;
+}
+
+.header {
+    background-color: white;
+}
+
+#header-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
