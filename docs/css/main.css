@@ -6,6 +6,19 @@ body {
     background-color: white;
 }
 
+.title {
+    font-size:xx-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.body {
+    font-size: large;
+    font-family: sans-serif;
+    text-align: center;
+}
+
 #header-logo {
     display: block;
     margin-left: auto;
